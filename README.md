@@ -1,3 +1,3 @@
 # nycdatascience.github.io
 
-## Description here
+## Dan Diaz NYC Data Science Academy project
